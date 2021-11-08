@@ -3,23 +3,23 @@ entries:
   another-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-08T14:26:31.751582518+01:00"
+    created: "2021-11-08T14:37:11.161509755+01:00"
     description: A Helm chart for Kubernetes
     digest: fca3c1c8be03ac19bfebeb14d160b94215ca74eeb6ff72e403fde3174197eaa6
     name: another-chart
     type: application
     urls:
-    - https://github.com/unixmind/helm-test/another-chart-0.1.0.tgz
+    - another-chart-0.1.0.tgz
     version: 0.1.0
   chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-08T14:26:31.752347008+01:00"
+    created: "2021-11-08T14:37:11.162030639+01:00"
     description: A Helm chart for Kubernetes
     digest: 4a612f379cba6c85ebcec48ebfaea7eb07a07a264195b4e9104b2d52e6b1b8fe
     name: chart-test
     type: application
     urls:
-    - https://github.com/unixmind/helm-test/chart-test-0.1.0.tgz
+    - chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-08T14:26:31.750516883+01:00"
+generated: "2021-11-08T14:37:11.160716544+01:00"
